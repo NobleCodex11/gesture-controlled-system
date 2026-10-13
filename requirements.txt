@@ -9,3 +9,6 @@ comtypes
 pycaw
 plyer
 keyboard
+resemblyzer
+speechbrain
+edge-tts
